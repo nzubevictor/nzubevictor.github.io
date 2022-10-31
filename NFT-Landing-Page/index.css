@@ -1714,17 +1714,19 @@ body{
     }
    
     .home_text h1{
-        font-size: 8.7rem;
+        font-size: 10.1rem;
         margin: 0;
-        padding-left: 6rem;
+        margin-left: 6rem;
         margin-top: 6rem;
+        margin-right: 6rem;
+        text-align: justify
     }
    
     .home_text p{
         padding-top: 1rem;
         font-size: 1.8rem;
         margin: 0;
-        margin-right: 9rem;
+        margin-right: 6rem;
         margin-left: 6rem;
         text-align: justify;
     }
@@ -1901,7 +1903,7 @@ body{
     .flex1{
         width: 700px;
         height: 1000px;
-        left: -3rem;
+        left: -2rem;
     }
    
     .flex1 img{
